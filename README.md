@@ -48,9 +48,13 @@ El sistema consiste en una aplicación para la **administración de inventario d
 ## 🗂️ Estructura general del sistema
 
 Frontend (HTML / CSS / JS)
+
 ↓
+
 Backend (Java)
+
 ↓
+
 Base de Datos (SQL)
 
 
