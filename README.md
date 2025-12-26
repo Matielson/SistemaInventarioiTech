@@ -78,10 +78,9 @@ Este proyecto se desarrolla de manera autodidacta como complemento a la formaci�
 
 ---
 
-## 👥 Autores
+## 👥 Autor
 
 - Matias Nuñez Vassallo
-- Vito Montesi Leon
 
 ---
 
