@@ -80,7 +80,8 @@ Este proyecto se desarrolla de manera autodidacta como complemento a la formaci�
 
 ## 👥 Autores
 
-- Proyecto desarrollado por estudiantes universitarios como trabajo práctico y de aprendizaje continuo.
+- Matias Nuñez Vassallo
+- Vito Montesi Leon
 
 ---
 
